@@ -30,7 +30,7 @@ We’ve created a project with a basic React/NextJS project + some CSS to keep y
 
 To do so, just click “**Fork**” at the top and then clone the forked repo. This will fork the repo into your personal account which will make it easier to push code/deploy our project later.
 
-Also, drop a star on it as well if you’re feeling nice!
+Also, drop a star on it as well if you’re feeling nice!!
 
 ![Untitled](https://i.imgur.com/bTgmHpL.png)
 
